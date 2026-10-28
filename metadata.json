@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Fitness Gym | 24/7 Modern Fitness Club",
+  "description": "Ahmedabad's premier 24-hour fitness centre in Centrum Heights featuring elite strength equipment, steam bath recovery, personalized training, and dedicated photo room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
